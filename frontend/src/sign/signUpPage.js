@@ -298,7 +298,7 @@ export function SignUp() {
               variant="contained"
               onClick={validateInputs}
             >
-              Sign in
+              Sign up
             </Button>
             <Typography sx={{ textAlign: 'center' }}>
               이미 계정이 있으신가요?{' '}
